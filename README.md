@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <br>🚀 About Me<br>
-I'm Rafael Junior Software Developer from Portugal ![Portugal](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pt.png) that enjoys solving problems and learning new things I also enjoy wireframing, ui, ux, and design in general.
+I'm Rafael Junior Software Developer from Portugal ![Portugal](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pt.png) that enjoys solving problems and learning new things. I also enjoy wireframing, ui, ux, and design in general.
 
 <br>⚙️ Technical Skills<br>
 <div style="display: flex wrap; ">
